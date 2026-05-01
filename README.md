@@ -1,5 +1,7 @@
 # Taka Ticket — Landing Page & Sistem Tiket Request Pembuatan Website
 
+![Taka Ticket Preview](ticket.png)
+
 Proyek **Next.js (App Router) + TypeScript** untuk landing page agency dan
 sistem tiket request pembuatan website. Form mengirim email otomatis melalui
 **Nodemailer** ke alamat yang sudah dikonfigurasi.
